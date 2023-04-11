@@ -1,0 +1,1174 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<title>校园招聘_应届生求职网</title>
+<meta name="keywords" content="校园招聘,校园招聘信息,应届生求职网"/>
+<meta name="description" content="应届生求职网校园招聘推荐专区为您提供大量校园招聘信息。本栏目所有校园招聘信息均由应届生精心选择推荐，包括各大知名公司校园招聘、公务员事业单位校园招聘等相关信息。校园招聘推荐专区是应届生求职网最受欢迎的栏目之一。本栏目仅包含由应届生推荐的校园招聘信息，不包括本站所有校园招聘信息，如果您需要查看更多校园招聘信息，请选择相关地区频道。祝您求职顺利！ " />
+<meta http-equiv="Content-Language" content="zh-CN" />
+<meta name="verify-v1" content="XKRf698qNs0McprylyTfyBHn+QpaFO2/Tr2HcLkXGCQ=" />
+<link rel="Shortcut Icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://static1.yingjiesheng.net/html/style/ver20/base.css?time=20220915" type="text/css" media="all"  />
+<link rel="stylesheet" href="https://static1.yingjiesheng.net/html/style/ver20/sub.css?time=20200422" type="text/css" media="all"  />
+<link rel="stylesheet" href="https://static1.yingjiesheng.net/static/css/common.css?time=221209" type="text/css" media="all" />
+<script src="//aeu.alicdn.com/waf/antidomxss_v640.js"></script><script src="//aeu.alicdn.com/waf/interfaceacting220819.js"></script><script src="https://static1.yingjiesheng.net/html/scripts/global.js?date=0314" type="text/javascript"></script>
+<script src="https://static1.yingjiesheng.net/static/store/jquery.js" type="text/javascript"></script>
+<script src="https://static1.yingjiesheng.net/static/store/jquery.cookie.js?date=221115"></script>
+</head>
+<body>
+<div class="extraWrap" id="extraWrap" style="display: none;">
+  <div class="app-down" id="extraAppDown">
+    <em class="img"></em>
+    <span class="txt">APP</span>
+    <div class="dwAppWrap" style="display: none;">
+      <p class="dw_app">
+        <img src="https://static1.yingjiesheng.net/static/img/download_qrcode_float.png" />
+        <a href="https://scdata.51job.com/r/4ua" target="_blank">下载应届生求职App</a>
+      </p>
+    </div>
+  </div>
+  <p class="line"></p>
+  <div class="extraGotop" onclick="window.scrollTo(0,0); return false;">
+    <em class="img"></em>
+    <span class="txt">回顶部</span>
+  </div>
+</div>
+<div class="head" id="hdMount">
+  <div class="top trackSenNavigation">
+    <div class="in clear">
+      <a class="logo" href="//www.yingjiesheng.com/" track-title="logo">
+        <img src="https://static1.yingjiesheng.net/static/img/launch_logo.png" height="24" width="auto" />
+      </a>
+      <div class="nav">
+        <a href="//www.yingjiesheng.com/" target="_blank">首页</a>
+        <a href="https://young.yingjiesheng.com/pc/searchintention" target="_blank" >职位推荐</a>
+        <a href="https://young.yingjiesheng.com/pc/searchintern" target="_blank" class="active">实习</a>
+        <a href="/deadline/" target="_blank"  style="width:70px;">Deadline</a>
+        <a href="/haigui/" target="_blank" class="">海归</a>
+        <a href="https://young.yingjiesheng.com/pc/okrecommendtab" target="_blank" class="" track-title="OK社"><img src="https://static1.yingjiesheng.net/static/img/icon_navigation_ok.png" height="36" style="position: relative;top: 12px;" /></a>
+        <a href="https://my.yingjiesheng.com/xuanjianghui.html" target="_blank" class="">宣讲会</a>
+        <a href="https://tv.51job.com" target="_blank" class="">空中宣讲</a>
+        <a href="/major/" target="_blank" class="">分类求职</a>
+      </div>
+      <div class="nav_m" id="showNavMore">
+        <span class="nav_mbtn"></span>
+        <p class="nav_mbox" style="display: none;">
+          <a href="//wk.yingjiesheng.com" target="_blank">文库</a>
+          <a href="/industry/" target="_blank">行业招聘</a>
+        </p>
+      </div>
+      <div class="user">
+        <a href="https://my.yingjiesheng.com/index.php/company.htm" class="com_enter">企业版</a>
+        <!--登录后-->
+        <a id="user_logined" href="https://union.yingjiesheng.com/" class="u_box noSen" style="display: none;">
+          <em class="u_img"><img id="user_avatar" src="https://static1.yingjiesheng.net/static/img/user_default.jpg" /></em>
+          <span id="user_nick">欢迎您</span>
+        </a>
+        <!--未登录-->
+        <a id="user_unlogin" href="https://union.yingjiesheng.com/" class="signup">登录</a>
+      </div>
+      <div class="down" id="downApp">
+        <a href="https://scdata.51job.com/r/cua" target="_blank">APP</a>
+        <p class="dw_app" style="display: none;">
+          <img src="https://static1.yingjiesheng.net/static/img/download_qrcode_top.png" />
+          <a href="https://scdata.51job.com/r/cua" target="_blank" class="noSen">下载应届生求职App</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="https://static1.yingjiesheng.net/static/js/common.js?date=221205" charset="UTF-8"></script>
+<script>
+  checkUserLogined({
+    'unionUrl': "https://union.yingjiesheng.com/",
+    'jspaceUrl': "https://my.yingjiesheng.com/",
+    'staticUrl': "https://static1.yingjiesheng.net/",
+  });
+</script>
+<div class="curloc">
+	<p class="wrap">当前位置：<a href="/">首页</a> &raquo; <a href="/commend-fulltime-1.html">兼职推荐信息导读</a></p>
+</div>
+<div class="wrap">
+	<div class="city">
+		<div class="hotcity">
+			<label class="ctit">热门城市</label>
+			<div class="li">
+				<a href="/beijing/" target="_blank" class="em">北京</a>
+				<a href="/shanghai/" target="_blank" class="em">上海</a>
+				<a href="/guangzhou/" target="_blank" class="em">广州</a>
+				<a href="/shenzhen/" target="_blank" class="em">深圳</a>
+				<a href="/nanjing/" target="_blank">南京</a>
+				<a href="/wuhan/" target="_blank">武汉</a>
+				<a href="/chengdu/" target="_blank">成都</a>
+				<a href="/tianjin/" target="_blank">天津</a>
+				<a href="/hangzhoujob/" target="_blank">杭州</a>
+				<a href="/suzhoujob/" target="_blank">苏州</a>
+				<a href="/jinanjob/" target="_blank">济南</a>
+				<a href="/dalianjob/" target="_blank">大连</a>
+				<a href="/chongqingjob/" target="_blank">重庆</a>
+				<a href="/qingdaojob/" target="_blank">青岛</a>
+				<a href="/fuzhoujob/" target="_blank">福州</a>
+				<a href="/xiamenjob/" target="_blank">厦门</a>
+				<a href="/xianjob/" target="_blank">西安</a>
+			</div>
+			<a href="#" onclick="showHideMC()" class="more"><span>更多</span><em class="icondbarrow"></em></a>
+		</div>
+		<div id="morecity" class="morecity" style="display: none;">
+			<span class="ctit">其它地区</span>
+			<div class="li">
+				<a href="/guangdongjob/" target="_blank">广东</a>
+				<a href="/jiangsujob/" target="_blank">江苏</a>
+				<a href="/shandongjob/" target="_blank">山东</a>
+				<a href="/hebeijob/" target="_blank">河北</a>
+				<a href="/henanjob/" target="_blank">河南</a>
+				<a href="/zhejiangjob/" target="_blank">浙江</a>
+				<a href="/sichuanjob/" target="_blank">四川</a>
+				<a href="/anhuijob/" target="_blank">安徽</a>
+				<a href="/hubeijob/" target="_blank">湖北</a>
+				<a href="/liaoningjob/" target="_blank">辽宁</a>
+				<a href="/shanxi2job/" target="_blank">山西</a>
+				<a href="/hunanjob/" target="_blank">湖南</a>
+				<a href="/fujianjob/" target="_blank">福建</a>
+				<a href="/shanxijob/" target="_blank">陕西</a>
+				<a href="/jiangxijob/" target="_blank">江西</a>
+				<a href="/heilongjiangjob/" target="_blank">黑龙江</a>
+				<a href="/guangxijob/" target="_blank">广西</a>
+				<a href="/gansuningxiaqinghaijob/" target="_blank">甘肃</a>
+				<a href="/jilinjob/" target="_blank">吉林</a>
+				<a href="/yunnanjob/" target="_blank">云南</a>
+				<a href="/guizhoujob/" target="_blank">贵州</a>
+				<a href="/neimenggujob/" target="_blank">内蒙古</a>
+				<a href="/xinjiangxizangjob/" target="_blank">新疆</a>
+				<a href="/hainanjob/" target="_blank">海南</a>
+				<a href="/gansuningxiaqinghaijob/" target="_blank">宁夏</a>
+				<a href="/gansuningxiaqinghaijob/" target="_blank">青海</a>
+				<a href="/xinjiangxizangjob/" target="_blank">西藏</a>
+				<a href="/other/" target="_blank">其它</a>
+			</div>
+		</div>
+	</div>
+	<script src="https://static1.yingjiesheng.net/cache/scripts/commend_job_top.js" type="text/javascript"></script>
+	<div class="job">
+		<label class="tit"><h4>兼职推荐信息导读</h4></label>
+		<div class="jobdiv">
+			<div class="ptl mb clear">
+				<p class="clear"><span class="act">共44002条</span><span class="strong">1</span>&nbsp;<a href="/commend-parttime-2.html" title="page 2">2</a>&nbsp;<a href="/commend-parttime-3.html" title="page 3">3</a>&nbsp;<a href="/commend-parttime-4.html" title="page 4">4</a>&nbsp;<a href="/commend-parttime-5.html" title="page 5">5</a>&nbsp;<a href="/commend-parttime-6.html" title="page 6">6</a>&nbsp;<a href="/commend-parttime-7.html" title="page 7">7</a>&nbsp;<a href="/commend-parttime-8.html" title="page 8">8</a>&nbsp;<a href="/commend-parttime-9.html" title="page 9">9</a>&nbsp;<a href="/commend-parttime-10.html" title="page 10">10</a>&nbsp;&nbsp;<a href="/commend-parttime-2.html" title="next page">下一页</a>&nbsp;<a href="/commend-parttime-489.html" title="last page">[末页]</a></p>
+			</div>
+			<table class="jobul th">
+				<tr class="jobth">
+					<th width="378"><span>公司名称</span></th>
+					<th width="302"><span>职位名称</span></th>
+					<th width="201"><span>工作地点</span></th>
+					<th width="100"><span>发布日期</span></th>
+				</tr>
+			</table>
+			<table class="jobul">
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122595.html" target="_blank">中泰证券（上海）资产管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122595.html" target="_blank">私募组合基金部招聘实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-31</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15452555.html" target="_blank">深圳市商盾企业管理有限公司广州分公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15452555.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-31</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15453377.html" target="_blank">北京钛盾科技发展有限责任公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15453377.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>天津其他</span></td>
+					<td width="100"><span>2023-03-31</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122563.html" target="_blank">永安期货股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122563.html" target="_blank">永安期货2023年度“黄埔联盟”实习生招聘</a>
+					</td>
+					<td width="201"><span>杭州</span></td>
+					<td width="100"><span>2023-03-30</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="/job-006-141-838.html" target="_blank">雅诗兰黛（上海）商贸有限公司</a>
+					</td>
+					<td width="302">
+						<a href="/job-006-141-838.html" target="_blank">2023招聘暑期实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-30</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121596.html" target="_blank">上海松佰牙科医疗器械有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121596.html" target="_blank">销售培训生（广州医路）</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-30</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15449782.html" target="_blank">广州劲旺房地产咨询有限责任公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15449782.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-29</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122540.html" target="_blank">沈阳百润鸿德环保科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122540.html" target="_blank">销售应届实习生8000+住宿（长短期均可）</a>
+					</td>
+					<td width="201"><span>沈阳</span></td>
+					<td width="100"><span>2023-03-29</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15446805.html" target="_blank">力辉（佛山）文体科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15446805.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>佛山其他</span></td>
+					<td width="100"><span>2023-03-29</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122522.html" target="_blank">国金证券股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122522.html" target="_blank">投行-股权承做岗实习生（base深圳）(J14510)</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-29</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122513.html" target="_blank">宏瑞（烟台）汽车销售有限公司河南分公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122513.html" target="_blank">新能源汽车销售管培生</a>
+					</td>
+					<td width="201"><span>郑州</span></td>
+					<td width="100"><span>2023-03-29</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122512.html" target="_blank">国盛证券有限责任公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122512.html" target="_blank">人力资源总部实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-29</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15447294.html" target="_blank">广州广汽租赁有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15447294.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-29</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122483.html" target="_blank">中税标准税务师事务所有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122483.html" target="_blank">税务助理-实习生(呼和浩特)</a>
+					</td>
+					<td width="201"><span>呼和浩特</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15446961.html" target="_blank">北京六合神州科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15446961.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122465.html" target="_blank">广州闻信展览服务有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122465.html" target="_blank">客服实习生</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122460.html" target="_blank">鸿商资本股权投资有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122460.html" target="_blank">招聘方向/人力资源实习</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_11703822.html" target="_blank">长沙金茂置业有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_11703822.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>南昌</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15185711.html" target="_blank">霍尼韦尔（中国）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15185711.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="/job-006-137-838.html" target="_blank">中国万向控股有限公司</a>
+					</td>
+					<td width="302">
+						<a href="/job-006-137-838.html" target="_blank">2023招聘实习生</a>
+					</td>
+					<td width="201"><span>上海杭州</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122448.html" target="_blank">昆明恒颖地产有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122448.html" target="_blank">恒隆-暑期实习生</a>
+					</td>
+					<td width="201"><span>昆明</span></td>
+					<td width="100"><span>2023-03-28</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122413.html" target="_blank">霍尼韦尔（中国）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122413.html" target="_blank">2024 Intern _ 软件开发工程师-AERO（北京）</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-27</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122439.html" target="_blank">国都证券股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122439.html" target="_blank">资产管理总部-金融市场部实习生</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-27</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122399.html" target="_blank">杭州助研生物科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122399.html" target="_blank">生物试剂/医药销售</a>
+					</td>
+					<td width="201"><span>杭州</span></td>
+					<td width="100"><span>2023-03-27</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122393.html" target="_blank">深圳市华安合鑫资产管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122393.html" target="_blank">市场部实习生</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-27</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122396.html" target="_blank">艾奇斯商务咨询（上海）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122396.html" target="_blank">采购实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-27</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122355.html" target="_blank">银联商务股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122355.html" target="_blank">数据建模岗(J11071)</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-23</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="/job-006-131-777.html" target="_blank">天风证券股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="/job-006-131-777.html" target="_blank">2023暑期实习生招聘</a>
+					</td>
+					<td width="201"><span>上海北京南京武汉其它</span></td>
+					<td width="100"><span>2023-03-23</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122342.html" target="_blank">汇誉私募基金管理（湖州）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122342.html" target="_blank">投资岗位实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-23</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15412501.html" target="_blank">北京巫视文化有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15412501.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-23</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15433866.html" target="_blank">浙江雅隆文化用品有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15433866.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>义乌</span></td>
+					<td width="100"><span>2023-03-22</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122317.html" target="_blank">广发证券股份有限公司广州分公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122317.html" target="_blank">广发证券广州分公司校园大使</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-22</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15435536.html" target="_blank">上海职申机商务咨询有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15435536.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-22</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_14763882.html" target="_blank">苏州诚挚健康管理咨询有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_14763882.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>苏州</span></td>
+					<td width="100"><span>2023-03-21</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15010307.html" target="_blank">苏州市普实软件有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15010307.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>苏州</span></td>
+					<td width="100"><span>2023-03-21</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_3249525.html" target="_blank">北京艾力森中研咨询有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_3249525.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122128.html" target="_blank">熙唐思贤（浙江）科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122128.html" target="_blank">数据标注</a>
+					</td>
+					<td width="201"><span>南昌</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122129.html" target="_blank">北京易普康达医疗科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122129.html" target="_blank">图像算法实习生</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="/job-006-124-460.html" target="_blank">中国银行股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="/job-006-124-460.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>全国</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_5091424.html" target="_blank">Avanade（埃维诺）</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_5091424.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122119.html" target="_blank">全球智库能源环境咨询（北京）中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122119.html" target="_blank">第16届中国能源环境高峰论坛秘书处实习生志愿者</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_13719584.html" target="_blank">上海盛琍发制冷科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_13719584.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_2063743.html" target="_blank">上海容智能源科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_2063743.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-20</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122114.html" target="_blank">上海文思海辉金信软件有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122114.html" target="_blank">Institutional Equity Division China Corporate Access Intern</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122108.html" target="_blank">读客文化股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122108.html" target="_blank">财务实习生（短期）</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121969.html" target="_blank">中航基金管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121969.html" target="_blank">REITs承做实习生</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15355466.html" target="_blank">广州微易软件有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15355466.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_11270250.html" target="_blank">朗盛化学（中国）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_11270250.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_6559289.html" target="_blank">中美联泰大都会人寿保险有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_6559289.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15417630.html" target="_blank">上海峰禾文化传播有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15417630.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>北京上海</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15341976.html" target="_blank">信旅（上海）国际旅行社有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15341976.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1122090.html" target="_blank">富国基金管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1122090.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-17</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121966.html" target="_blank">银联商务股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121966.html" target="_blank">投后管理实习岗(J11070)</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-14</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15414741.html" target="_blank">优势智融（上海）企业管理咨询有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15414741.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-14</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121911.html" target="_blank">北京壳木软件有限责任公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121911.html" target="_blank">游戏广告创意师</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-14</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_9554170.html" target="_blank">纵横文旅（上海）实业发展有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_9554170.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-14</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_4289541.html" target="_blank">景顺长城基金管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_4289541.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>北京上海深圳南京</span></td>
+					<td width="100"><span>2023-03-14</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_8081797.html" target="_blank">上东亚期货有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_8081797.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-13</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121878.html" target="_blank">国泰君安证券股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121878.html" target="_blank">融资融券部实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-13</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="/job-006-114-527.html" target="_blank">上海晨晖创业投资管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="/job-006-114-527.html" target="_blank">孵化事业部长期实习生</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-13</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121839.html" target="_blank">财通证券资产管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121839.html" target="_blank">营销策划实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-10</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="/job-006-114-176.html" target="_blank">安琪酵母股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="/job-006-114-176.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>湖北</span></td>
+					<td width="100"><span>2023-03-10</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121820.html" target="_blank">和创数字私募股权基金管理（北京）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121820.html" target="_blank">投资团队实习生</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-10</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15369014.html" target="_blank">队王（上海）品牌管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15369014.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-09</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_11939393.html" target="_blank">兵工财务有限责任公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_11939393.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-09</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121811.html" target="_blank">中信建投证券股份有限公司北京红军营南路证券营业部</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121811.html" target="_blank">理财规划师</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-09</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15402183.html" target="_blank">广东辛孚科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15402183.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-09</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15387265.html" target="_blank">玩咖欢聚文化传媒（北京）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15387265.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>北京</span></td>
+					<td width="100"><span>2023-03-09</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="/job-006-113-521.html" target="_blank">淘宝（中国）软件有限公司</a>
+					</td>
+					<td width="302">
+						<a href="/job-006-113-521.html" target="_blank">Java研发|Golang 研发</a>
+					</td>
+					<td width="201"><span>杭州</span></td>
+					<td width="100"><span>2023-03-09</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121780.html" target="_blank">上海俪栎广告有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121780.html" target="_blank">公关Intern</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-09</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_1662733.html" target="_blank">上海神州数码有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_1662733.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-08</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121761.html" target="_blank">重庆龙湖商业管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121761.html" target="_blank">【24届暑期实习生招聘】重庆龙湖商业实习生</a>
+					</td>
+					<td width="201"><span>重庆</span></td>
+					<td width="100"><span>2023-03-08</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121768.html" target="_blank">上海留仁资产管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121768.html" target="_blank">实习生-行业研究员（可转正）</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-08</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15396218.html" target="_blank">耐克商业（中国）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15396218.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>北京广州</span></td>
+					<td width="100"><span>2023-03-08</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121746.html" target="_blank">国金证券股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121746.html" target="_blank">投行-股权承做实习生（base上海）(J15049)</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121724.html" target="_blank">马鞍山基石浦江资产管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121724.html" target="_blank">运营实习生</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_12833842.html" target="_blank">深圳市金石医疗科技有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_12833842.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_15393674.html" target="_blank">漫山野(惠州)文化产业有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_15393674.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>广州</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121651.html" target="_blank">沃尔沃建筑设备技术（中国）有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121651.html" target="_blank">机械设计实习生</a>
+					</td>
+					<td width="201"><span>济南</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_14982910.html" target="_blank">太保私募基金管理有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_14982910.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_13387837.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_13387837.html" target="_blank">2023实习生招聘</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121668.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121668.html" target="_blank">研究员助理（服务经济发展研究）</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121675.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121675.html" target="_blank">工业互联网平台助理（产业生态方向)</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121676.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121676.html" target="_blank">工业互联网平台助理（技术创新方向）</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121677.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121677.html" target="_blank">科技产业平台助理（产品经理方向)</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121678.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121678.html" target="_blank">研究员助理</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121685.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121685.html" target="_blank">数据分析挖掘实习生</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121686.html" target="_blank">深圳国家高技术产业创新中心</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121686.html" target="_blank">人力资源助理</a>
+					</td>
+					<td width="201"><span>深圳</span></td>
+					<td width="100"><span>2023-03-07</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/company_14745985.html" target="_blank">掠食龙（上海）信息技术有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/company_14745985.html" target="_blank">2023校园招聘</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-06</span></td>
+				</tr>
+								<tr class="jobli">
+					<td width="378">
+						<a href="http://my.yingjiesheng.com/job_1121636.html" target="_blank">国金证券股份有限公司</a>
+					</td>
+					<td width="302">
+						<a href="http://my.yingjiesheng.com/job_1121636.html" target="_blank">投行股权承做-实习生(J14601)</a>
+					</td>
+					<td width="201"><span>上海</span></td>
+					<td width="100"><span>2023-03-06</span></td>
+				</tr>
+							</table>
+			<div class="ptl clear">
+				<p class="clear"><span class="strong">1</span>&nbsp;<a href="/commend-parttime-2.html" title="page 2">2</a>&nbsp;<a href="/commend-parttime-3.html" title="page 3">3</a>&nbsp;<a href="/commend-parttime-4.html" title="page 4">4</a>&nbsp;<a href="/commend-parttime-5.html" title="page 5">5</a>&nbsp;<a href="/commend-parttime-6.html" title="page 6">6</a>&nbsp;<a href="/commend-parttime-7.html" title="page 7">7</a>&nbsp;<a href="/commend-parttime-8.html" title="page 8">8</a>&nbsp;<a href="/commend-parttime-9.html" title="page 9">9</a>&nbsp;<a href="/commend-parttime-10.html" title="page 10">10</a>&nbsp;&nbsp;<a href="/commend-parttime-2.html" title="next page">下一页</a>&nbsp;<a href="/commend-parttime-489.html" title="last page">[末页]</a></p>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="https://static1.yingjiesheng.net/cache/scripts/joblist_left_rec.js"></script>
+<script type="text/javascript" src="https://static1.yingjiesheng.net/html/scripts/ver20/miniEventArr.js?date=200402"></script>
+
+<!-- Part:footer -->
+<div class="foot">
+    <div class="wrap clear">
+        <div class="info">
+            <p>
+                <a href="/about/us/cn/index.html" target="_blank">关于我们</a>
+                <em>|</em>
+                <a href="//vip.yingjiesheng.com/" target="_blank">合作伙伴</a>
+                <em>|</em>
+                <a href="https://young.yingjiesheng.com/pc/explain?type=4" target="_blank">隐私条款</a>
+                <em>|</em>
+                <a href="https://m.yingjiesheng.com/" target="_blank">触屏版</a>
+                <em>|</em>
+                <a href="//link.yingjiesheng.com/" target="_blank">友情链接</a>
+                <em>|</em>
+                <a href="/about/about.html" target="_blank">联系我们</a>
+                <em>|</em>
+                <a href="/about/jubao.html" target="_blank">违法和不良信息举报</a>
+                <em>|</em>
+                <a href="///help.yingjiesheng.com/" target="_blank">帮助指南</a>
+            </p>
+            <p>网站备案/许可证号：<a href="http://beian.miit.gov.cn/" target="_blank">沪ICP备12015550号-13</a><em>|</em><a href="//www.yingjiesheng.com/about/qualification.html" target="_blank"><img src="https://static1.yingjiesheng.net/html/images/ver20/zz.png" height="16" style="vertical-align:middle;margin-right:5px;" />电子营业执照/人力资源服务许可证</a></p>
+            <p><a class="gan" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502002551" target="_blank">沪公网安备 31011502002551 号</a></p>
+            <p>上海市反电信网络诈骗中心防范劝阻电话和短信统一专号：962110，网民接到962110电话，请立即接听。</p>
+            <p>Copyright <a href="https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=dov73ne26zbqppw8cklwn9rl7z1dwyd3pz" target="_blank">&copy;前锦网络信息技术（上海）有限公司</a>版权所有 </p>
+        </div>
+        <div class="appcode">
+            <img src="https://static1.yingjiesheng.net/static/img/download_qrcode_btm.png" width="90"><br>
+            <a href="https://scdata.51job.com/r/kua" target="_blank">APP下载</a>
+        </div>
+        <div class="wxcode">
+            <img src="https://static1.yingjiesheng.net/html/images/ver20/wechat.jpg" width="90"><br>
+            <a href="//vip.yingjiesheng.com/weixin/" target="_blank">微信订阅号</a>
+        </div>
+    </div>
+    <div class="wrap">
+        <p class="license">
+           <a href="http://www.12377.cn" target="_blank"><img src="https://static1.yingjiesheng.net/html/images/shjubao2.gif" /></a>
+            <a href="http://www.shjbzx.cn" target="_blank"><img src="https://static1.yingjiesheng.net/html/images/ver20/internet_complaint.png" height="32" width="auto"></a>
+        </p>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://static1.yingjiesheng.net/static/store/md5.min.js?date=2301113"></script>
+<script type="text/javascript" src="https://static1.yingjiesheng.net/static/sensors/sensorsdata.min.js?date=230103"></script>
+<script type="text/javascript" src="https://static1.yingjiesheng.net/static/sensors/sensors_ini.js?date=230103" charset="UTF-8"></script>
+<script type="text/javascript">
+  function randomString(val) {
+    val = val || 32;
+    var chars = "ABCDEFGHJKMNPQRSTWXYZabcdefhijkmnprstwxyz2345678";
+    var maxPo = chars.length, randomNum = '';
+    for (i = 0; i < val; i++) {
+      randomNum += chars.charAt(Math.floor(Math.random() * maxPo));
+    }
+    return randomNum;
+  }
+  var randomnum = randomString(32) + Date.now().toString();
+  var randomsign = md5(randomnum);
+  
+  if ($.cookie('CookieUuid') == '' || typeof $.cookie('CookieUuid') == 'undefined') {
+    $.cookie('CookieUuid', randomsign, {expires: 720, path: '/', domain: 'yingjiesheng.com' });
+  }
+  
+  var cur_date = new Date().toLocaleDateString();
+  var userTypeVal = '';
+  var hasAccountid = typeof $.cookie('Yjs_UAccountId') != 'undefined' && $.cookie('Yjs_UAccountId') != '';
+  var hasRegDate = typeof $.cookie('Yjs_Udate') != 'undefined' && typeof $.cookie('Yjs_Udate') != '';
+  if (hasAccountid && hasRegDate) {
+    userTypeVal = $.cookie('Yjs_Udate') != cur_date ? '老用户' : '新用户';
+  }
+  
+  var path = location.pathname;
+  var trackConfig = {
+    'accountid': $.cookie('Yjs_UAccountId'),
+    'uuid': $.cookie('CookieUuid'),
+    'domain': location.hostname,
+    'pageName': path.substring(path.lastIndexOf("/")+1),
+    'partner': location.search.substring(1),
+    'fromdomain': 'yjs_web',
+    'to': '',
+    'sensor_url': 'https://scdata.51job.com/sa?project=jobs_campus',
+    'userType': userTypeVal,
+  };
+  $(document).ready(function() {
+  	sensor.doSensor(trackConfig);
+  });
+</script>
+<script type="text/javascript" src="https://static1.yingjiesheng.net/static/sensors/sensors_track.js?date=230328"></script>
+
+<div style="display: none;">
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb15730ce74e116ff0df97e207706fa4a' type='text/javascript'%3E%3C/script%3E"));
+</script>
+</div>
+
+</body>
+</html>
